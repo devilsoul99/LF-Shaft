@@ -3,7 +3,7 @@ A classic game written in C++ using Qt
 
 Get Qt here: ![https://www.qt.io/](https://www.qt.io/)
 
-*The published game can be downloaded from this ![link](https://drive.google.com/open?id=0B5-oqI631OgEcXR0eVhYNzdWN00)*
+The published game can be downloaded from this ![link](https://drive.google.com/open?id=0B5-oqI631OgEN1hwZWZyd1VRMFk)
 
 ## Features 
 
